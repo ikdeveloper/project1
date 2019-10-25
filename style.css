@@ -1,0 +1,151 @@
+/* .folder{
+
+    width: 150px;
+    height: 160px;
+    border: 1px solid;
+    color: gray;
+    text-align: center;
+    display: inline-block;
+}
+
+img{
+
+    width: 150px;
+    height: 121px;
+    display: inline-block;
+} */
+/* #section div.data [class]{
+
+    background-color: orange;
+}
+div#apple [title].hash section.newdata{
+    background-color: pink;
+} */
+#icon{
+    position:relative;
+    top: 20px;
+    fill: blue;
+
+}
+#itemPrice{
+text-align: center;
+}
+#select{
+
+    width: 250px;
+    height: 40px;
+    border: 1.5px solid grey;
+    margin-left: 22px;
+}
+#search{
+    width: 650px;
+    height: 35px;
+    border: 1.5px solid grey;
+    margin-left: 22px;
+}
+
+#sell{
+    background-color: blue;
+    color: white;
+    padding: 5px;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 16px;
+    float: right;
+    position: relative;
+    top: 20px;
+    margin-right: 18px;
+}
+#login{
+    background-color: white;
+    color: blue;
+    padding: 5px;
+    border-radius: 5px;
+    width: 80px;
+    height: 40px;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav{
+    display: block;
+    margin-top: 20px;
+    margin-left: 40px
+}
+.nav_item{
+    padding-left:20px;
+    font-weight: bold;
+    color: grey;
+    text-decoration: none;
+}
+.nav_item:hover{
+    color: red;
+}
+.ad:hover{
+        border-color: black;
+}
+.slider{
+    width: 100%;
+    margin-top: 110px;
+}
+.ad{
+    
+    /* height: 260px; */
+    border: 1px solid lightgray;
+    text-align: center;
+    padding-top: 10px;
+    margin-left: 26px;
+    margin-top:30px;
+    display: inline-block;
+    width: 230px;
+    
+}
+.ad img{
+    width: 150px;
+    height: 140px;
+}
+.ad_details{
+    border-left: 5px solid orange;  
+    width: 100%;
+    
+}
+.RS{font-weight: bold;
+}
+.dis{
+    font-family: Arial, Helvetica, sans-serif;
+}
+#header{
+    background-color:white;
+    height: 100px;
+    padding: 10PX;
+    TOP: 0;
+    position: fixed;
+    width: 100%;
+    z-index: 10;
+}
+.featured{
+    position:relative;
+    background-color: yellow;
+    font-size: 0.8em;
+    padding: 5px;
+    font-weight: bold;
+    font-family: arial;
+    top: 30px;
+    left: -60px;
+}
+.heart{
+    position: relative;
+    top: -141px;
+    left: 23px;
+    fill: red;
+}
+.adress{
+    float: left;
+    margin-right: 10px;
+}
+.date{
+    float: right;
+    margin-right: 10px;
+}
